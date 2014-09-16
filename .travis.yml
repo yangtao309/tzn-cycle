@@ -1,0 +1,5 @@
+language: java
+script: mvn
+notifications:
+  email:
+      - yangtao309@gmail.com
